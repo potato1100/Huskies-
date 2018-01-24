@@ -1,0 +1,13 @@
+h1{
+  font-family: 'Bungee', cursive;
+  font-size: 6vw;
+  color:#00EAF5;
+}
+
+header {
+ background-color: #000000;
+ background-image:url("H1.jpg");
+ padding:10vw 2em;
+ background-position: center center;
+ background-size: cover
+}
